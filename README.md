@@ -28,7 +28,7 @@
    
    
 ### MY Interest. 📚
-- **I'm interested in learning the **FULL STACK**, thats my aim** :strong:
+- **I'm interested in learning the **FULL STACK**, thats my aim** 
 - **Exlore the AI study, maybe creat one some day** 🙂
 - **Networking.** 🔧
 - **Ethical Hacking** 🎩
@@ -47,7 +47,7 @@ knowledge is :infinity:
 
 ### REACH ME:
 - [facebook](https://web.facebook.com/?_rdc=1&_rdr)
-- [linkedin](https://www.linkedin.com/search/results/people
+- [linkedin](https://www.linkedin.com/search/results/people)
 - [GitHub](https://github.com/SammyLoyalty/Ethical-hacking)
 
 
