@@ -20,11 +20,15 @@
  they played a big role in my    programming journey. :pray:
 
 ### What do I Know :question:
-1. *HTML* and *CSS*
-2. currently learning **JS**. 
-3. communication skills 📱
-4. Data Base Management **SQL** 🧮
-5. System analysis ♟️
+
+### Languages and Tool.
+1. *HTML* and *CSS* 
+2. **C programming**
+3. **git** and **GitHub**
+   
+### currently learning
+* JavaScript
+* SQL 
    
    
 ### MY Interest. 📚
