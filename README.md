@@ -1,6 +1,6 @@
 
 
-# MY PROFILE 🤵‍♂️
+# MY PROFILE 🤵
 
  :wave: hey! I'm **Samson Kwizela**.
  
@@ -25,7 +25,7 @@
 1. *HTML* and *CSS* 
 2. **C programming**
 3. **git** and **GitHub**
-   
+
 ### currently learning
 * JavaScript
 * SQL 
