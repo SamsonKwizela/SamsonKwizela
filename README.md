@@ -3,7 +3,6 @@
 # MY PROFILE 🤵‍♂️
 
  :wave: hey! I'm **Samson Kwizela**.
- [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg)](https://github.com/yourusername)
  
  **Thank you for checking up on me** :relaxed:
 
