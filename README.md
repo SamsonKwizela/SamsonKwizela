@@ -7,7 +7,7 @@
  **Thank you for checking up on me** :relaxed:
 
  ## Whos is Samson? :thinking:
- - well, I'm the strongest man, 👊 obviously you know that, but in coding this time and era :laughing:.
+ - well, I'm the strongest man, 👊 obviously you know that, but in software engineering this time and era :laughing:.
  - Based in **Zambia** :zambia:, The Land of **work** and **joy** :smile:
 
 - I'm a **computer science** :computer: *student at Cavendish University zambia*. 🏫 
@@ -29,7 +29,7 @@
    
 ### MY Interest. 📚
 - **I'm interested in learning the **FULL STACK**, thats my aim** 
-- **Exlore the AI study, maybe creat one some day** 🙂
+- **Exlore the AI study, maybe creat one some day** 
 - **Networking.** 🔧
 - **Ethical Hacking** 🎩
 - **problem solving**
@@ -41,6 +41,13 @@ I am a Hardworking person, but saying wont prove anything my environment and res
 - I **love sharing knowledge** because it is a way we all develop, chaine of stregnth increases as I help others.
 - I **love learning without** mattering the source but what is brought on the table.
 - Trying without limiting my self.
+- I Have a **innovative mind** and **enterprenuership skill**u.
+  ### My Hobbies.
+* coding is my mode of relaxation.
+* I Love reading and singing mostly.
+* keeping fit.
+* playing chess.
+  
 
 knowledge is :infinity: 
 
