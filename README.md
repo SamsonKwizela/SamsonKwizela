@@ -67,7 +67,6 @@ I am a Hardworking person, but saying wont prove anything my environment and res
 
 knowledge is :infinity: 
 
-### REACH ME:
   
 
 
