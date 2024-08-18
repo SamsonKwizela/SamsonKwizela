@@ -21,16 +21,8 @@
 
 ### What do I Know :question:
 
-### Languages and Tool.
-1. *HTML* and *CSS* 
-2. **C programming** 
-3. **git** and **GitHub**
 
-### currently learning
-* JavaScript
-* SQL 
-   
-   
+     
 ### MY Interest. 📚
 - **I'm interested in learning the **FULL STACK**, thats my aim** 
 - **Exlore the AI study, maybe creat one some day** 
@@ -52,8 +44,7 @@ I am a Hardworking person, but saying wont prove anything my environment and res
 * keeping fit.
 * playing chess.
   
-
-
+### Languages and Tool
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
