@@ -3,7 +3,20 @@
 # MY PROFILE 🤵
 
  :wave: hey! I'm **Samson Kwizela**.
- 
+ <br/>
+ <br />
+ <a href="https://www.linkedin.com/search/results/people">
+  <img align="left" alt="tamara's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/TamaraSiansanda">
+  <img align="left" alt="tamara's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100077164193751](https://web.facebook.com/?_rdc=1&_rdr">
+  <img align="left" alt="tamara's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br />
+<br />
+
  **Thank you for checking up on me** :relaxed:
 
  ## Whos is Samson? :thinking:
@@ -55,10 +68,7 @@ I am a Hardworking person, but saying wont prove anything my environment and res
 knowledge is :infinity: 
 
 ### REACH ME:
-- [facebook](https://web.facebook.com/?_rdc=1&_rdr)
-- [linkedin](https://www.linkedin.com/search/results/people)
-- [GitHub](https://github.com/SammyLoyalty/Ethical-hacking)
-
+  
 
 
 
