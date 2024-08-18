@@ -38,13 +38,15 @@ I am a Hardworking person, but saying wont prove anything my environment and res
 - I **love learning without** mattering the source but what is brought on the table.
 - Trying without limiting my self.
 - I Have a **innovative mind** and **enterprenuership skill**u.
+- 
   ### My Hobbies.
 * coding is my mode of relaxation.
 * I Love reading and singing mostly.
 * keeping fit.
 * playing chess.
   
-### Languages and Tool
+### ⚙**Languages and Tool**🛠
+
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
