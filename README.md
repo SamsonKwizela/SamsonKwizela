@@ -58,7 +58,7 @@ I am a Hardworking person, but saying wont prove anything my environment and res
 * keeping fit.
 * playing chess.
   
-### ⚙**Languages and Tool**🛠
+### ⚙**Languages and Tools**🛠
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
