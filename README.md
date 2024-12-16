@@ -1,8 +1,10 @@
 
 
-# MY PROFILE 🤵
+# **Samson Kwizela** 🤵  
 
- :wave: hey! I'm **Samson Kwizela**.
+👋 Hi! I’m **Samson Kwizela**, a passionate **Computer Science student at Cavendish University Zambia** 🇿🇲.  
+Driven by curiosity and the desire to innovate, I strive to grow in the fields of **software engineering**, **AI**, **networking**, and **problem-solving**.  
+
  <br/>
  <br />
  <a href="https://www.linkedin.com/search/results/people">
@@ -17,70 +19,51 @@
 <br />
 <br />
 
- **Thank you for checking up on me** :relaxed:
+---
 
- ## Whos is Samson? :thinking:
- - well, I'm the strongest man, 👊 obviously you know that, but in software engineering this time and era :laughing:.
- - Based in **Zambia** :zambia:, The Land of **work** and **joy** :smile:
+## **Who is Samson?**
+- Based in **Zambia** 🇿🇲, the land of **hard work** and **joy**!  
+- A student with a mission: To master **Full-Stack Development** and explore **Artificial Intelligence** for impactful solutions.  
 
-- I'm a **computer science** :computer: *student at Cavendish University zambia*. 🏫 
+---
 
-### MY Bio in Tech world.
-- I started liking **computer work** when i was in grade nine(9), i was my highest grade, in **2019**. 
-- shortcomes, my interest in computing droped when i was i was chased from the computer lab by my teacher because  i was not chosen to go there. :crying:
-- I gained my stamina back when i met [Tr Olivier](https://www.linkedin.com/in/olivierjm/?originalSubdomain=zm) in **2021** during an enterprenure seminor. 
-- In **2022**, [Desire](https://github.com/Deewiliams) sacrificed his time to teach us programming, that's when i started my **HTML** and **CSS**.
- they played a big role in my    programming journey. :pray:
+## **My Tech Journey** 📖  
+- **2019**: Discovered a love for technology in Grade 9.  
+- **2021**: Met [Tr Olivier](https://www.linkedin.com/in/olivierjm/?originalSubdomain=zm), whose mentorship reignited my passion for computing.  
+- **2022**: Began programming with **HTML** and **CSS**, thanks to guidance from [Desire](https://github.com/Deewiliams).  
+- Today, I continue to learn and grow as a software enthusiast, with ambitions to contribute to the tech world.  
 
-### What do I Know :question:
+---
 
+## **Interests** 📚  
+- **Full-Stack Development** 🔋  
+- **Artificial Intelligence** 🤖  
+- **Networking and Ethical Hacking** 🔧🎩  
+- **Problem-Solving and Innovation** 💡  
 
-     
-### MY Interest. 📚
-- **I'm interested in learning the **FULL STACK**, thats my aim** 
-- **Exlore the AI study, maybe creat one some day** 
-- **Networking.** 🔧
-- **Ethical Hacking** 🎩
-- **problem solving**
-- full stack 🔋
+---
 
-### What do i like? ✔️
+## **What I Value** ✔️  
+- **Sharing Knowledge**: Helping others strengthens the collective.  
+- **Continuous Learning**: I embrace knowledge from any source.  
+- **Hard Work and Commitment**: My actions speak louder than words.  
+- **Entrepreneurship**: I enjoy turning innovative ideas into impactful realities.  
 
-I am a Hardworking person, but saying wont prove anything my environment and results shows, if not commitment will.
-- I **love sharing knowledge** because it is a way we all develop, chaine of stregnth increases as I help others.
-- I **love learning without** mattering the source but what is brought on the table.
-- Trying without limiting my self.
-- I Have a **innovative mind** and **enterprenuership skill**u.
-- 
-  ### My Hobbies.
-* coding is my mode of relaxation.
-* I Love reading and singing mostly.
-* keeping fit.
-* playing chess.
-  
-### ⚙**Languages and Tools**🛠
+---
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## **Hobbies** 🎯  
+- Coding as a way to unwind 💻  
+- Reading, singing, and playing chess 🎶♟️  
+- Staying active and keeping fit 🏋️  
 
-knowledge is :infinity: 
+---
 
-  
+## ⚙️ **Languages and Tools** 🛠️  
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>  
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>  
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Knowledge is infinite** 🔗  
